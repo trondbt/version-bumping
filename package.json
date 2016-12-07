@@ -1,6 +1,6 @@
 {
   "name": "version-bumping", 
-  "version": "n-SNAPSHOT", 
+  "version": "1.7.7", 
   "description": "", 
   "main": "index.js", 
   "scripts": {
