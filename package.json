@@ -1,6 +1,6 @@
 {
   "name": "version-bumping", 
-  "version": "1.7.22", 
+  "version": "1.7.23-SNAPSHOT", 
   "description": "", 
   "main": "index.js", 
   "scripts": {
