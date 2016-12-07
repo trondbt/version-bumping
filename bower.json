@@ -1,0 +1,10 @@
+{
+  "name": "version-bumping", 
+  "version": "1.0.3-SNAPSHOT", 
+  "description": "", 
+  "license": "MIT", 
+  "homepage": "http://www.vegvesen.no", 
+  "private": true, 
+  "ignore": [], 
+  "devDependencies": {}
+}
