@@ -1,7 +1,7 @@
 {
   "name": "version-bumping", 
-  "version": "1.8.14-SNAPSHOT", 
-  "description": "tåp æv førarkort", 
+  "version": "1.8.14", 
+  "description": "t\u00e5p \u00e6v f\u00f8rarkort", 
   "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "author": "trondbt", 
   "license": "ISC", 
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.1", 
     "grunt-bump": "^0.8.0"
   }
 }
