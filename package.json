@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }, 
-  "author": "trondbt", 
-  "license": "ISC", 
+  "author": "trondbt",
+  "license": "ISC",
   "devDependencies": {
     "grunt": "^1.0.1", 
     "grunt-bump": "^0.8.0"
