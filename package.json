@@ -1,7 +1,7 @@
 {
   "name": "version-bumping", 
   "version": "1.8.13-SNAPSHOT", 
-  "description": "", 
+  "description": "tåp æv førarkort", 
   "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
