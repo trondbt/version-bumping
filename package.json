@@ -1,6 +1,6 @@
 {
   "name": "version-bumping", 
-  "version": "1.8.18", 
+  "version": "1.8.19-SNAPSHOT", 
   "description": "tåp æv førarkort", 
   "main": "index.js", 
   "scripts": {
