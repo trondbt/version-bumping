@@ -1,10 +1,10 @@
 {
-  "name": "version-bumping", 
-  "version": "1.8.21-SNAPSHOT", 
-  "description": "", 
-  "license": "MIT", 
-  "homepage": "http://www.vegvesen.no", 
-  "private": true, 
-  "ignore": [], 
+  "name": "version-bumping",
+  "version": "1.8.21-SNAPSHOT",
+  "description": "",
+  "license": "MIT",
+  "homepage": "http://www.vegvesen.no",
+  "private": true,
+  "ignore": [],
   "devDependencies": {}
 }
