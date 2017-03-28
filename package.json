@@ -1,6 +1,6 @@
 {
   "name": "version-bumping",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "description": "tåp æv førarkort",
   "main": "index.js",
   "scripts": {
