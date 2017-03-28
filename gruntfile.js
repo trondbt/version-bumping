@@ -23,5 +23,6 @@ module.exports = function(grunt) {
 
   //var dry = grunt.option()
   //grunt.registerTask('release', ['bump-only --dry-run']);
+  grunt.registerTask('default', []);
 
 };
