@@ -4,8 +4,8 @@
   "description": "tåp æv førarkort",
   "main": "index.js",
   "scripts": {
-    "test": "",
-    "build": ""
+    "test": "echo ok",
+    "build": "echo ok"
   },
   "author": "trondbt",
   "license": "ISC",
